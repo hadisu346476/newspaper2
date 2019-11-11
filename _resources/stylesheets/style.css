@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'muli';
+	src: url('../webfonts/muli-regular.ttf');	
+}
+
+@font-face {
+	font-family: 'berk';
+	src: url('../webfonts/BerkshireSwash-Regular.ttf');	
+}
+
+#text1
+{
+	font-family: muli;
+}
+
+#text2
+{
+	font-family: berk;
+}
+.content{
+	min-height: 700px;
+	
+}
